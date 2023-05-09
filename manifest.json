@@ -1,0 +1,69 @@
+{
+  "name": "Portifolio",
+  "short_name": "Portifolio",
+  "icons": [
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/120.png",
+      "sizes": "120x120",
+      "type":"image/png"
+
+    },      {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/128.png",
+      "sizes": "128x128",
+      "type":"image/png"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/144.png",
+      "sizes": "144x144",
+      "type":"image/png"
+
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/152.png",
+      "sizes": "152x152",
+      "type":"image/png"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/167.png",
+      "sizes": "167x167",
+      "type":"image/png"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/172.png",
+      "sizes": "172x172",
+      "type":"image/png"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/180.png",
+      "sizes": "180x180",
+      "type":"image/png"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/196.png",
+      "sizes": "196x196",
+      "type":"image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/216.png",
+      "sizes": "216x216",
+      "type":"image/png"
+    
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/256.png",
+      "sizes": "256x256",
+      "type":"image/png"
+    },
+    {
+      "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/512.png",
+      "sizes": "512x512",
+      "type":"image/png"
+      
+        }
+  ],
+  "start_url": "indexe.html",
+  "display": "standalone",
+  "background_color": "#31506F",
+  "theme_color": "#4D5360"
+}
